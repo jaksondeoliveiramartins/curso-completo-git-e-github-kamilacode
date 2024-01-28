@@ -1,0 +1,1 @@
+versionamento de codigo é o conceito de podermos ter varias versões de um mesmo codigo em maquinas diferentes.

@@ -1,0 +1,1 @@
+Github é uma plataforma de hospedagem de codigo fonte mais conhecida e mais utilizada, que utiliza o sistema de controle de versão git. 
