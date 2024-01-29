@@ -27,3 +27,10 @@ git push
 
 ## o que  é o readme  md ?
 o arquivo README.md é um arquivo que é a porta de entrada do nosso repositorio,nele nós temos a apresentação do repo e tambem  informaçòes sobre setup de ambiente e tecnologias.
+
+## O que é um merge ?
+merge consiste na união de duas versões diferentes de um mesmo codigo podendo ser duas versões da mesma branch e tambem podendo ser
+duas branch diferentes.
+
+## Como atualizar o repositório local com o repositorio remoto?
+git pull
